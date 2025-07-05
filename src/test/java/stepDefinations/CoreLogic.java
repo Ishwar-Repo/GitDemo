@@ -12,8 +12,8 @@ public class CoreLogic {
 		System.out.println("*****************************");
 		System.out.println("setup the entries in database");
 		
-		System.out.println("Git hub testing line 1 ");
-		System.out.println("Git hub testing line 2 ");
+		System.out.println("Git hub testing line from eclipse1  ");
+		System.out.println("Git hub testing line from eclipse1  ");
 	}
 
 	@When("launch the browser from config variables")
