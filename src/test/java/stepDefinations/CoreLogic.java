@@ -1,5 +1,6 @@
 package stepDefinations;
 
+import java.security.spec.EdECPublicKeySpec;
 import java.util.List;
 import org.testng.Assert;
 import io.cucumber.java.en.*;
@@ -10,6 +11,9 @@ public class CoreLogic {
 	public void setup_the_entries_in_database() {
 		System.out.println("*****************************");
 		System.out.println("setup the entries in database");
+		
+		System.out.println("Git hub testing line 1 ");
+		System.out.println("Git hub testing line 2 ");
 	}
 
 	@When("launch the browser from config variables")
