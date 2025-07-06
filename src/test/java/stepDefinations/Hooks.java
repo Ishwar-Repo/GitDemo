@@ -22,8 +22,6 @@ public class Hooks {
 	public void mortgageBaking() {
 		System.out.println("*****************************");
 		System.out.println("setup the entries in Mortgage Baking database");
-		
-		System.out.println("This changes from Eclipse1");
 	}
 	
 	//Flow of execution in Cucumber BDD Framework : Before -> Background -> Scenario -> After
