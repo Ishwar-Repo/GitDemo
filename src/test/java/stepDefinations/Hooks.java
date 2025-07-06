@@ -16,6 +16,8 @@ public class Hooks {
 	public void tearDown() {		
 		System.out.println("Delete all the entries from database");
 		System.out.println("*****************************");
+		
+		System.out.println("This changes from Eclipse2");
 	}	
 	
 	@Before("@Mortgage")
