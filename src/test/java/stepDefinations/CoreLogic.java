@@ -69,6 +69,8 @@ public class CoreLogic {
 	@Then("Home Page is displayed")
 	public void home_page_is_displayed() {
 		System.out.println("Home Page is displayed");
+		
+		System.out.println("this changes doing from dev branch GitDemo1");
 	}
 
 	@Then("Cards are displyed")
