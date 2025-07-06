@@ -74,6 +74,8 @@ public class CoreLogic {
 	@Then("Cards are displyed")
 	public void cards_are_displyed() {
 		System.out.println("Cards are displyed");
+		
+		System.out.println("this changes doing from dev branch");
 //		System.out.println("*****************************");
 	}
 }
