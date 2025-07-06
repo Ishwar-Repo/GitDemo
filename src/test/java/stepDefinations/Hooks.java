@@ -8,6 +8,8 @@ public class Hooks {
 	public void netBaking() {
 		System.out.println("*****************************");
 		System.out.println("setup the entries in net Baking database");
+		
+		System.out.println("This changes from Eclipse1");
 	}
 	
 	@After
